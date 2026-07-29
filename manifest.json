@@ -1,0 +1,26 @@
+{
+  "name": "O.A.C. · Serena Energia",
+  "short_name": "OAC",
+  "description": "Observação de Atos e Condições — SST / O&M Serena",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EDE9E5",
+  "theme_color": "#FF5246",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
